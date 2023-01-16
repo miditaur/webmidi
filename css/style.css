@@ -1,5 +1,10 @@
+body{
+display: flex;
+flex-direction: column;
+background-color: DodgerBlue;
+}
 h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
+color: blue;
+font-family: verdana;
+font-size: 300%;
 }
